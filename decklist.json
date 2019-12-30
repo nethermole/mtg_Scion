@@ -101,5 +101,21 @@
         "Worldgorger Dragon",
         "Yosei, the Morning Star",
         "Zirilan of the Claw"
-    ]
+    ],
+    "counts": {
+        "artifact": 11,
+        "creature": 34,
+        "enchantment": 13,
+        "instant": 5,
+        "land": 28,
+        "planeswalker": 2,
+        "sorcery": 8,
+        "notes": [
+            "+1 creature if you count Animate Dead",
+            "+1 creature if you count Necromancy",
+            "-1 enchantment if you dont count Animate Dead",
+            "-1 enchantment if you dont count Necromancy",
+            "-1 enchantment if you dont count Perplexing Chimera"
+        ]
+    }
 }
